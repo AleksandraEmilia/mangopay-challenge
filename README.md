@@ -35,4 +35,4 @@ Both acceptance criteria are written in the way that can be ambiguous. "Should h
 
 <img src="png/test_result_Paris.png">  
 
-Generated report can be found in [playwright-report](playwright-report) directory.
+Generated report can be found in [playwright-report](playwright-report) directory. To view results download file and open in browser.
